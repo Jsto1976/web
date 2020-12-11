@@ -1,22 +1,6 @@
 
 
-@media screen (max-width: 1200px) {
-  body {
-    font-size:42px;
-  }
-}
 
-@media screen (min-width:1201px) {
-  body {
-    font-size:8px;
-  }
-}
-@media (max-width: 300px) { 
-    body {
-        background-image:url(\/\/2.bp.blogspot.com\/-VklF5a6t9eo\/X4WvYOAacOI\/AAAAAAAAEWM\/RdLN2WRcudEOVPqn35c5rQ61CJW9JUaUQCK4BGAYYCw\/w200\/image_search_1600078535969.jpg);
-        font-size:36px;
-    }
-}
 body {
 font-size:20px;
 font-family:Teko;
